@@ -2,11 +2,11 @@
 ##### JVM Options
 * -Xms256m
 * -Xmx512m
+* -Xss256k
 * -XX:PermSize=128m
 * -XX:MaxPermSize=128M
 * -XX:SurvivorRatio=7
 * -XX:NewRatio=2
-* -Xss256k
 * -XX:MaxTenuringThreshold=8
 
 ![heap_dump](http://7d9k2r.com1.z0.glb.clouddn.com/jvm_heap_dump.png)
@@ -14,9 +14,9 @@
 ##### Explain
 * Young Gen: 170.626, 85.356
 	- Eden Space: 132.750, 66.438
-	- Survivor 0: 18.938, 9.438
-	- Survivor 1: 18.938, 9.438
 	- Survivor: 37.876, 18.876
+		- Survivor 0: 18.938, 9.438
+		- Survivor 1: 18.938, 9.438
 * Old Gen: 341.375, 170.688
 * Perm Gen: 128, 128
 * -Xms: 85.356 + 170.688 = 256.044

@@ -33,3 +33,4 @@
 ##### Reference
 * [Java HotSpot VM Options](http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html)
 * [JVM调优总结](http://unixboy.iteye.com/blog/174173/)
+* [GC大揭秘](http://longdick.iteye.com/blog/474764)

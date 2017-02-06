@@ -32,6 +32,8 @@
 
 ##### Reference
 * [JVM Settings](http://jvmmemory.com/)
+* [Java Options](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
+* [JDK Tools and Utilities ](https://docs.oracle.com/javase/8/docs/technotes/tools/#basic)
 * [Java HotSpot VM Options](http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html)
 * [JVM调优总结](http://unixboy.iteye.com/blog/174173/)
 * [GC大揭秘](http://longdick.iteye.com/blog/474764)

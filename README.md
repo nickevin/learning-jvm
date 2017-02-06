@@ -31,6 +31,7 @@
 	- 85.356: 170.688= 1:2
 
 ##### Reference
+* [JVM Settings](http://jvmmemory.com/)
 * [Java HotSpot VM Options](http://www.oracle.com/technetwork/java/javase/tech/vmoptions-jsp-140102.html)
 * [JVM调优总结](http://unixboy.iteye.com/blog/174173/)
 * [GC大揭秘](http://longdick.iteye.com/blog/474764)
